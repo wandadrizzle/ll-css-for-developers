@@ -1,0 +1,139 @@
+/* Regular */
+@font-face {
+    font-family: 'Playfair Display';
+    src: url('../fonts/playfair-display/static/PlayfairDisplay-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/* Medium */
+@font-face {
+    font-family: 'Playfair Display';
+    src: url('../fonts/playfair-display/static/PlayfairDisplay-Medium.ttf') format('truetype');
+    font-weight: 500; /* Medium */
+    font-style: normal;
+}
+
+/* SemiBold */
+@font-face {
+    font-family: 'Playfair Display';
+    src: url('../fonts/playfair-display/static/PlayfairDisplay-SemiBold.ttf') format('truetype');
+    font-weight: 600; /* SemiBold */
+    font-style: normal;
+}
+
+/* Bold */
+@font-face {
+    font-family: 'Playfair Display';
+    src: url('../fonts/playfair-display/static/PlayfairDisplay-Bold.ttf') format('truetype');
+    font-weight: bold; /* Bold */
+    font-style: normal;
+}
+
+/* ExtraBold */
+@font-face {
+    font-family: 'Playfair Display';
+    src: url('../fonts/playfair-display/static/PlayfairDisplay-ExtraBold.ttf') format('truetype');
+    font-weight: 800; /* ExtraBold */
+    font-style: normal;
+}
+
+/* Black */
+@font-face {
+    font-family: 'Playfair Display';
+    src: url('../fonts/playfair-display/static/PlayfairDisplay-Black.ttf') format('truetype');
+    font-weight: 900; /* Black */
+    font-style: normal;
+}
+
+/* Italic */
+@font-face {
+    font-family: 'Playfair Display';
+    src: url('../fonts/playfair-display/static/PlayfairDisplay-Italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+/* Medium Italic */
+@font-face {
+    font-family: 'Playfair Display';
+    src: url('../fonts/playfair-display/static/PlayfairDisplay-MediumItalic.ttf') format('truetype');
+    font-weight: 500; /* Medium */
+    font-style: italic;
+}
+
+/* SemiBold Italic */
+@font-face {
+    font-family: 'Playfair Display';
+    src: url('../fonts/playfair-display/static/PlayfairDisplay-SemiBoldItalic.ttf') format('truetype');
+    font-weight: 600; /* SemiBold */
+    font-style: italic;
+}
+
+/* Bold Italic */
+@font-face {
+    font-family: 'Playfair Display';
+    src: url('../fonts/playfair-display/static/PlayfairDisplay-BoldItalic.ttf') format('truetype');
+    font-weight: bold; /* Bold */
+    font-style: italic;
+}
+
+/* ExtraBold Italic */
+@font-face {
+    font-family: 'Playfair Display';
+    src: url('../fonts/playfair-display/static/PlayfairDisplay-ExtraBoldItalic.ttf') format('truetype');
+    font-weight: 800; /* ExtraBold */
+    font-style: italic;
+}
+
+/* Black Italic */
+@font-face {
+    font-family: 'Playfair Display';
+    src: url('../fonts/playfair-display/static/PlayfairDisplay-BlackItalic.ttf') format('truetype');
+    font-weight: 900; /* Black */
+    font-style: italic;
+}
+
+
+
+
+@font-face {
+    font-family: 'Redacted Script';
+    src: url('../fonts/redacted-script/RedactedScript-Bold.ttf') format('truetype');
+    /* Include additional font files and formats if necessary */
+    font-weight: bold; /* Specifying font-weight - note this is equivalent to font-weight: 700;*/
+    font-style: normal; /* Specifying font-style */
+}
+
+@font-face {
+    font-family: 'Redacted Script';
+    src: url('../fonts/redacted-script/RedactedScript-Regular.ttf') format('truetype');
+    font-weight: normal; /* this is equivalent to font-weight: 400;*/
+    font-style: normal; 
+}
+
+@font-face {
+    font-family: 'Redacted Script';
+    src: url('../fonts/redacted-script/RedactedScript-Light.ttf') format('truetype');
+    font-weight: 300; 
+    font-style: normal; 
+}
+
+.redacted-script-light {
+    font-family: "Redacted Script", cursive;
+    font-weight: 300;
+    font-style: normal;
+}
+  
+.redacted-script-regular {
+    font-family: "Redacted Script", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+  
+.redacted-script-bold {
+    font-family: "Redacted Script", cursive;
+    font-weight: 700;
+    font-style: normal;
+ }
+  
